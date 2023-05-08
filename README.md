@@ -10,5 +10,5 @@ in maniera automatica.
    2. Chocolatey
 # Come si installa?
 Si scarica la cartella del progetto e la si decomprime dove meglio ti fa comodo.
-#Contributi
+# Contributi
 Essendo un amatore della programmazione, ogni suggerimento e fork per rendere più interattivo il mio script sono ben accetti!
